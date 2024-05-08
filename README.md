@@ -1,14 +1,14 @@
 👋 Hello!
 -----
 
-I'm Gabriel Viana, graduated in Business Administration and I was trained professionaly by engineers. I from Brazil.
+I'm Gabriel Viana, graduated in Business Administration and I was trained professionaly by engineers. I'm from Brazil.
 
 - 🔭 I have worked in a variety of businesses: retail, financial services, machinery industry, pharmaceutical industry.
 - ❤️ I love to work at Data and Software Engineering.
 - 😴 I'm lazy. So I tend to automate everything I can. 
 - 💬 I love talking about Sports, Travel, Business Strategy and Code.
 - 📚 Always studying something about programming, business and finance.
-- 🥋 I'm love Brazilian Jiu Jitsu and weight training at the gym.
+- 🥋 I love Brazilian Jiu Jitsu and weight training at the gym.
 
 
 🔗 Connect with me
